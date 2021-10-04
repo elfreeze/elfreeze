@@ -6,6 +6,7 @@
 
 
 A Short Bio!
+
 I was Born in the gracious city of "Suleja", the city that was righteously known as "AbuJa" before the name was borrowed by the Federal Capital Territory. My main ambition is to become an Electrical/Computer Engineer at a very young age.
 
 I currently work as a teacher in two public schools; a primary and a secondary school in Niger State of Nigeria. I teach Primary school Mathematics and Basic Technology for Junior Secondary school.
