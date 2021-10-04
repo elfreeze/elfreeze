@@ -13,7 +13,7 @@ I currently work as a teacher in two public schools; a primary and a secondary s
 
 I use most of my time after work to work on my internet projects which initially started as a hubby that has now grown into a side-hustle. I use the extra income to expand my knowledge in computers, in general, A.I. (Artificial Intelligence) and M.L. (Machine Learning) in particular.
 
-I strongly love Basketball. He play the game and watch most of Lakers and Warriors games`. My favorite players are the Late Kobe Bryant (RIP Kobe) and Steph Curry. My other hobbies are reading and learning new things.
+I strongly love Basketball. I play the game and watch most of Lakers and Warriors games`. My favorite players are the Late Kobe Bryant (RIP Kobe) and Steph Curry. My other hobbies are reading and learning new things.
 
 <!---
 elfreeze/elfreeze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
