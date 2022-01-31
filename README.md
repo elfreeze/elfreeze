@@ -7,13 +7,9 @@
 
 A Short Bio!
 
-I was Born in the gracious city of "Suleja", the city that was righteously known as "AbuJa" before the name was borrowed by the Federal Capital Territory. My main ambition is to become an Electrical/Computer Engineer at a very young age.
+My name is Hafeez Abdul. I am a Front-end Web Developer, Content Creator and Digital Marketer based in Abuja, Nigeria. I have a strong understanding of HTML and CSS and at an intermediate level at JavaScript.
 
-I currently work as a teacher in two public schools; a primary and a secondary school in Niger State of Nigeria. I teach Primary school Mathematics and Basic Technology for Junior Secondary school.
-
-I use most of my time after work to work on my internet projects which initially started as a hubby that has now grown into a side-hustle. I use the extra income to expand my knowledge in computers, in general, A.I. (Artificial Intelligence) and M.L. (Machine Learning) in particular.
-
-I strongly love Basketball. I play the game and watch most of Lakers and Warriors games`. My favorite players are the Late Kobe Bryant (RIP Kobe) and Steph Curry. My other hobbies are reading and learning new things.
+I started designing websites using Wordpress and Blogger as far back as 2012. My WordPress skill is outstanding. I started learning HTML, CSS and JavaScript in 2020 and improved my skills tremendously in 2021. That gave me the encouragement to create this portfolio website to showcase my projects.
 
 <!---
 elfreeze/elfreeze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
